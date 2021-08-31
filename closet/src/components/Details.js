@@ -1,9 +1,9 @@
+import ClothingCardContainer from './ClothingCardContainer';
+
 const Details = () => {
-    return (
-        <div>
-            Details
-        </div>
-    );
+  return (
+    <ClothingCardContainer />
+  );
 };
 
 export default Details;
